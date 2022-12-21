@@ -149,7 +149,6 @@
   <ItemGroup>
     <ClCompile Include="glad.c" />
     <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Matrices.cpp" />
     <ClCompile Include="Sphere.cpp" />
     <ClCompile Include="stb.cpp" />
   </ItemGroup>
@@ -162,11 +161,9 @@
   <ItemGroup>
     <ClInclude Include="Camera.h" />
     <ClInclude Include="Graph.h" />
-    <ClInclude Include="Matrices.h" />
     <ClInclude Include="Shader.h" />
     <ClInclude Include="Sphere.h" />
     <ClInclude Include="stb_image.h" />
-    <ClInclude Include="Vectors.h" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="awesomeface.png" />
